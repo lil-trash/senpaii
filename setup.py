@@ -8,7 +8,7 @@ setup(
   author = 'LilPork',                  
   author_email = 'defentlymyrealemail@gmail.com',    
   url = 'https://github.com/lil-trash/senpaii',  
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/lil-trash/senpaii/archive/refs/tags/1.tar.gz',
   keywords = ['thighs', 'senpaii', 'cum'],   
   install_requires=[           
           'PIL',
